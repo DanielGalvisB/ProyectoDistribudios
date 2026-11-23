@@ -1,0 +1,2 @@
+pyzmq>=25
+pyyaml>=6
